@@ -22,7 +22,4 @@
   3. Remove a directory and its contents:
      rm -r /path/to/directory
 
-
-
-
 => Make sure to click Update on the Odoo app <=
